@@ -12,12 +12,12 @@
     "preserveOutput": "always",
     "projects": [
       {
-        "outputDir": "C:/Playwright/Playwright_Typescript/test-results",
+        "outputDir": "C:/Playwright/Playwright-Rediff/test-results",
         "repeatEach": 1,
         "retries": 0,
         "id": "",
         "name": "",
-        "testDir": "C:/Playwright/Playwright_Typescript",
+        "testDir": "C:/Playwright/Playwright-Rediff",
         "testIgnore": [],
         "testMatch": [
           "**/?(*.)@(spec|test).*"
@@ -47,8 +47,8 @@
       "max": 5,
       "threshold": 15000
     },
-    "configFile": "C:\\Playwright\\Playwright_Typescript\\playwright.config.ts",
-    "rootDir": "C:/Playwright/Playwright_Typescript",
+    "configFile": "C:\\Playwright\\Playwright-Rediff\\playwright.config.ts",
+    "rootDir": "C:/Playwright/Playwright-Rediff",
     "quiet": false,
     "shard": null,
     "updateSnapshots": "missing",
@@ -78,7 +78,7 @@
                 {
                   "workerIndex": 0,
                   "status": "passed",
-                  "duration": 12829,
+                  "duration": 12892,
                   "errors": [],
                   "stdout": [
                     {
@@ -87,17 +87,17 @@
                   ],
                   "stderr": [],
                   "retry": 0,
-                  "startTime": "2023-05-26T11:11:59.027Z",
+                  "startTime": "2023-05-26T11:46:28.491Z",
                   "attachments": [
                     {
                       "name": "video",
                       "contentType": "video/webm",
-                      "path": "C:\\Playwright\\Playwright_Typescript\\test-results\\pomTest-rediffRegister-Register\\video.webm"
+                      "path": "C:\\Playwright\\Playwright-Rediff\\test-results\\pomTest-rediffRegister-Register\\video.webm"
                     },
                     {
                       "name": "screenshot",
                       "contentType": "image/png",
-                      "path": "C:\\Playwright\\Playwright_Typescript\\test-results\\pomTest-rediffRegister-Register\\test-finished-1.png"
+                      "path": "C:\\Playwright\\Playwright-Rediff\\test-results\\pomTest-rediffRegister-Register\\test-finished-1.png"
                     }
                   ]
                 }
